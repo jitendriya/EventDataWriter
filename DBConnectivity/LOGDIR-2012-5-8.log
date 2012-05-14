@@ -1,0 +1,7 @@
+08.05.2012 16:15:16(730ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:15:16(738ms) --- ALERT:  alert for execution 
+08.05.2012 16:15:16(738ms) --- INFO:   UPDATE 
+08.05.2012 16:15:16(739ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:15:16(739ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:15:16(741ms) --- ERROR:  This will be logged errors 
+08.05.2012 16:15:16(741ms) --- ERROR:  This will be logged errors 

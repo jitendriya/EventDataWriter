@@ -1,0 +1,15 @@
+08.05.2012 16:10:08(150ms) --- ERROR:  This will be logged errors 
+08.05.2012 16:12:02(956ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:12:02(965ms) --- ALERT:  alert for execution 
+08.05.2012 16:12:02(965ms) --- INFO:   UPDATE 
+08.05.2012 16:12:02(968ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:12:02(968ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:12:02(969ms) --- ERROR:  This will be logged errors 
+08.05.2012 16:12:02(969ms) --- ERROR:  This will be logged errors 
+08.05.2012 16:17:38(539ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:17:38(547ms) --- ALERT:  alert for execution 
+08.05.2012 16:17:38(547ms) --- INFO:   UPDATE 
+08.05.2012 16:17:38(548ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:17:38(548ms) --- INFO:  Checking Dbconnection 
+08.05.2012 16:17:38(550ms) --- ERROR:  This will be logged errors 
+08.05.2012 16:17:38(550ms) --- ERROR:  This will be logged errors 
